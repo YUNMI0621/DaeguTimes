@@ -1,2 +1,2 @@
-### DagueTimes
+### DaeguTimes
 ## TheIMC project
